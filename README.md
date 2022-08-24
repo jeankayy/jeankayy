@@ -1,9 +1,13 @@
 
-<h2 align="center">Hi there! I'm Jean 👋</h3>
+<h2 align="center">
+Hi there! I'm Jean 👋
+</h3>
 
-I'm a full stack developer. 
-
+<p align = "center"> 
+JavaScript is my first language but I'm always open to diving into some docs and learning something new! 
+ <br/><br/>
 <a href="https://www.linkedin.com/in/jeankim1/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
 ### Languages & Tools 
 
