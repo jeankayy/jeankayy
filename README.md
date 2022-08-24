@@ -1,4 +1,5 @@
-### Hi there, I'm Jean 👋
+
+<h2 align="center">Hi there! I'm Jean 👋</h3>
 
 I'm a full stack developer. 
 
